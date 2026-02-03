@@ -1,4 +1,4 @@
-# Product Functions (Updated)
+# Product Functions
 
 ## Core Accounting
 
@@ -16,13 +16,21 @@
   - Link expenditures to projects or designated purposes.
   - Organize records for smooth analysis and reporting.
 
-- **Cashbook Reconciliation**
+- **Balances**
   
-  - Maintain balances across multiple accounts.
-  - Reconcile receipts and payments with account records.
-  - Handle adjustments, charges, and closing balances.
-
----
+  - Provide an overview of balances across all accounts (cash, bank, designated funds).
+  
+  - Automatically update balances whenever income or expenditure records are added, edited, or removed.
+  
+  - Allow balances to be tracked periodically (daily, weekly, monthly, yearly).
+  
+  - Enable authorized users to make manual adjustments (e.g., bank charges, corrections) with audit logs.
+  
+  - Maintain historical balance records to support reviews and audits.
+  
+  - Flag discrepancies between expected balances (based on transactions) and manually entered closing balances.
+  
+  ---
 
 ## Contributions
 
