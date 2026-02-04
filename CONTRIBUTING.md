@@ -110,20 +110,6 @@ fix: correct typo in structure.md
 
 ---
 
-## PR Checklist (For reviewers)
-
-Use this checklist in PR descriptions.  
-Tick the items that apply to your change.  
-Ignore the ones that are not relevant.
-
-- [ ] Change is scoped and described
-- [ ] Commit messages use the required prefixes
-- [ ] Documentation updated where behavior, data model, or interfaces changed
-- [ ] Tests added or updated if code behavior changed
-- [ ] Reviewer assigned
-
----
-
 ## Issues and Labels
 
 Use clear labels and brief descriptions so triage is fast.
