@@ -18,7 +18,6 @@ This repository is the central hub for both source code and documentation. It co
 
 ## Getting started
 
-- Read this [README](README.md).  
 - Read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution rules, commit conventions, branch protection, and PR expectations.  
 - Read [overview.md](docs/product-documentation/overview.md) for a high-level guide to each documentation section.  
 - Use [structure.md](docs/product-documentation/structure.md) to navigate the documentation layout.  
