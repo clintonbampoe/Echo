@@ -2,7 +2,7 @@
 
 This file explains what each main section of the product documentation contains.  
 It provides a high-level guide so developers, admins, and stakeholders know where to look.  
-For detailed folder and file navigation, see [documentation-structure](structure.md) 
+For detailed folder and file navigation, see [documentation-structure](structure.md)  
 
 ---
 
@@ -29,15 +29,10 @@ Clarifies who can perform which actions across the system.
 
 ---
 
-## user-research/
+## ux-documentation/
 
-Provides context from real-world usage.  
-Includes workflows, user stories, and pain points that shape requirements.
-
----
-
-## ux-ui-documentation/
-
+Includes user research which provides context from real-world usage.
+Includes workflows, user stories, user personas and pain points that shape requirements and implementation.  
 Covers design and usability.  
 Includes principles, wireframes, and interaction flows to ensure a consistent user experience.
 

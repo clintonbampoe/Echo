@@ -4,13 +4,13 @@
 
 - **RP-FS001:** The system must generate structured financial statements including, but not limited to, Receipts & Payments, Trial Balance, Cash Book, and Balance Sheet. *// Improvement: “including, but not limited to” leaves room for flexibility to add new or custom statements later.*
 
-- **RP-FS002:** The system must provide summaries of income, expenditure, and balances across all financial accounts (cash, bank, designated funds). 
+- **RP-FS002:** The system must provide summaries of income, expenditure, and balances across all financial accounts (cash, bank, designated funds).  
   
   *// Clarification: In this context, “accounts” are financial repositories tracked in Core Accounting, not member accounts. Examples include cash on hand, bank accounts, and restricted/designated funds.*
 
 - **RP-FS003:** The system must ensure financial statements are compliant with standard accounting formats used by the church and auditors.
 
-- **RP-FS004:** The system must allow statements to be generated for configurable periods (daily, monthly, quarterly, yearly). 
+- **RP-FS004:** The system must allow statements to be generated for configurable periods (daily, monthly, quarterly, yearly).  
   
   *// Improvement: Adding “daily” provides flexibility for short-term monitoring and operational reviews.*
 
@@ -18,7 +18,7 @@
 
 - **RP-AR001:** The system must produce periodic analysis of income and expenditure trends.
 
-- **RP-AR002:** The system must generate member contribution and dues analysis, with breakdowns by category (tithe, offering, dues), group (ministries, fellowships, committees), or time period (weekly, monthly, yearly). 
+- **RP-AR002:** The system must generate member contribution and dues analysis, with breakdowns by category (tithe, offering, dues), group (ministries, fellowships, committees), or time period (weekly, monthly, yearly).  
   
   *// Clarification: This ensures leadership can see both individual and group giving patterns, track changes over time, and identify trends in financial participation.*
 
@@ -32,7 +32,7 @@
 
 - **RP-AE001:** The system must enable export of reports in standard formats (PDF, Excel, CSV).
 
-- **RP-AE002:** The system must maintain complete audit logs of all reporting actions, showing who generated, exported, or modified reports and when. 
+- **RP-AE002:** The system must maintain complete audit logs of all reporting actions, showing who generated, exported, or modified reports and when.  
 
 - *// Clarification: Audit logs here ensure transparency and accountability by recording every reporting action, making it possible to trace decisions and outputs back to individuals or teams.*
 
