@@ -1,10 +1,10 @@
 # Persona 001
 
-role: administrator  
-owner: dev team  
-status: draft
+role: **administrator**  
+owner: **dev team**  
+status: **draft**
 
-name: Grace Mensah
+name: **Grace Mensah**
 age: 45
 
 ## Snapshot
@@ -34,6 +34,8 @@ Desktop-first for heavy work; mobile for quick checks. Comfortable with admin pa
 ## Success & Acceptance Criteria
 
 Fewer support tickets, quick fixes in a single flow, and audit entries that answer **"who, when, why"** at a glance.
+
+## Design Implications (What to build for Kwame)
 
 - A single role-management view with filters and bulk actions.
 - Permission error messages that explain why and suggest next steps.
